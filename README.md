@@ -7,7 +7,6 @@ I'm a **Full-stack Developer** and **Entrepreneur** based in Chiang Mai. I love 
 ### 🛠 What I'm working on
 
 - 🏁 **[RaceFinder.fun](https://racefinder.fun):** Developing a "Tier S" running race aggregator for Thailand (Programmatic SEO project).
-- 
 
 - 🚀 **Automation:** Experimenting with AI-driven QA and scraping tools.
 
