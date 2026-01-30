@@ -10,11 +10,6 @@ I'm a **Full-stack Developer** and **Entrepreneur** based in Chiang Mai. I love 
 
 - 🚀 **Automation:** Experimenting with AI-driven QA and scraping tools.
 
----
-
-### 🏃‍♂️ Beyond Coding
-
-When I'm not in front of a screen, you'll find me:
 #### 💻 Windows Applications
 - **WinPhrase** 🚀  
   *[[WinPhrase](https://apps.microsoft.com/detail/9n48hb315xjx?ocid=webpdpshare)]* A powerful productivity tool for Windows designed for phrase management and workflow optimization. Built with a focus on speed and native performance.
@@ -25,8 +20,6 @@ When I'm not in front of a screen, you'll find me:
 
 #### 💳 Fintech & Infrastructure
 - **[RaceFinder.fun](https://racefinder.fun):** A high-performance running race aggregator (pSEO project) built with **Go** for efficient scraping.
-
----
 
 ---
 
